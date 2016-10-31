@@ -1,28 +1,15 @@
 fileFormatVersion: 2
-guid: 8dadca75ed733b84aa900329cfe4126e
-timeCreated: 1477936180
+guid: 574fa2e53ac24c94f82ed67a2072f060
+timeCreated: 1477936561
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
     100000: //RootNode
-    100002: Box001
-    100004: Box002
-    100006: main
     400000: //RootNode
-    400002: Box001
-    400004: Box002
-    400006: main
-    2300000: Box001
-    2300002: Box002
-    2300004: main
-    3300000: Box001
-    3300002: Box002
-    3300004: main
-    4300000: main
-    4300002: Box001
-    4300004: Box002
-    9500000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Enviroment
   materials:
     importMaterials: 1
     materialName: 0
@@ -85,7 +72,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
